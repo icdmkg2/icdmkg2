@@ -1,4 +1,4 @@
-### Hi there, I'm Or
+### Hi there 👋, I'm <a href="https://github.com/idcmkg2" target="_blank">Or</a> 
 
 [![WebsiteBadge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app) [![InstagramBadge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/icdmkg/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/icdmkg)
 
@@ -8,9 +8,9 @@ I am a Gamer and maybe a starting Python Dev
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
+- 👨🏻‍💻 I’m currently working on something cool
 - 🚀 Maybe im playing games
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help
 
 </br>
 
