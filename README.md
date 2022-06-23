@@ -4,12 +4,12 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=icdmkg2.icdmkg)
 
-I am a Gamer and maybe a starting Python Dev
+I am a Gamer and a Python Dev
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 👨🏻‍💻 I’m currently working on something cool
-- 🚀 Maybe im playing games
+- 🚀 playing games
 - 💬 Ask me about anything, I am happy to help
 
 </br>
