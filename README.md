@@ -4,7 +4,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=icdmkg2.icdmkg)
 
-I am a Gamer and a Python Dev
+I am a gamer and a python dev
 
 **Talking about Personal Stuff:**
 
