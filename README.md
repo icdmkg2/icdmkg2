@@ -8,7 +8,7 @@ I just like to f*** around and i know python :)
 
 **Talking about Personal Stuff:**
 
-- 🚀 playing games
+- 🚀 Playing games
 - 💬 Ask me about anything, I am happy to help
 
 </br>
