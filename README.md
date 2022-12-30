@@ -1,26 +1,15 @@
-### Hi there 👋, I'm <a href="https://github.com/idcmkg2" target="_blank">Or</a> 
+<img align='left' src='https://cdn.discordapp.com/attachments/959477385626026024/975700403792515122/profile-first-issue-dark.png' width='30%'/> 
 
-[![WebsiteBadge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://icdmkg2.github.io/) [![InstagramBadge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/icdmkg/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/icdmkg)
+<h1 align="left">YOOOOO</h1>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=icdmkg2.icdmkg)
+<h3 align="left">
+  I'm a Python developer! Also, I respond faster on <a href='https://discord.com/invite/2FvRBDcE'>Discord</a> ;)
+</h3>
 
-I just like to f*** around and i know python :)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 
-**Talking about Personal Stuff:**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/No_image.svg/2048px-No_image.svg.png" width="200"/>
 
-- 🚀 Playing games
-- 💬 Ask me about anything, I am happy to help
+![icdmkg2](https://github-readme-stats.vercel.app/api?username=icdmkg2&show_icons=true&theme=tokyonight&hide=["issues"])
 
-</br>
-
-
-📈 **My GitHub Stats:**
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=icdmkg2&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
-
-
-
-
-
+![icdmkg2](https://github-readme-stats.vercel.app/api/top-langs?username=icdmkg2&show_icons=true&theme=tokyonight&layout=compact)
